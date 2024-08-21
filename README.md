@@ -33,3 +33,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 Nesse projeto foi desenvolvido uma versão simplificada de um sistema de check-up de roteiro de viagem!
+
+Acesse Aqui <a href="https://carlosmartins33.github.io/NLW-Journey/">Check-Up</a> 
