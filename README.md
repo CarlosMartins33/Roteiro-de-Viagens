@@ -19,7 +19,7 @@ Aplicação desenvolvida no NLW Journey da Rocketseat na trilha Full-Stack de HT
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,9 +29,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- Git e GitHub
 
 ## Projeto
 
 Nesse projeto foi desenvolvido uma versão simplificada de um sistema de check-up de roteiro de viagem!
 
-Acesse Aqui <a href="https://carlosmartins33.github.io/NLW-Journey/">Check-Up</a> 
+Acesse Aqui <a href="https://carlosmartins33.github.io/Roteiro-de-Viagens/">Roteiro de Viagem</a> 
